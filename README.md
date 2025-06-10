@@ -8,4 +8,7 @@ This site will showcase my web development capabilities
 * NodeJS
 * Express
 * EJS
+* pug
 * MySQL
+* React
+* MongoDB
