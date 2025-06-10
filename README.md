@@ -12,3 +12,9 @@ This site will showcase my web development capabilities
 * MySQL
 * React
 * MongoDB
+
+## How to use my source code 
+Step 1: download my source code 
+Step 2: import my database file into your database 
+Step 3: Install webserver and run the server
+Step 4: Run index.html file 
