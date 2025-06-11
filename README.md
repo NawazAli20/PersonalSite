@@ -18,3 +18,4 @@ Step 1: download my source code
 Step 2: import my database file into your database 
 Step 3: Install webserver and run the server
 Step 4: Run index.html file 
+Step 5: Look for other pages through navigation 
